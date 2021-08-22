@@ -1,10 +1,13 @@
-### Hi there, I am a junior level web developer with a knowledge of ES6 and React. 👋
+## Hi , I am Rakib. 👋
+
+### Passionate MERN Stack developer
+
 
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on React.js
-- 💬 Ask me about anything
+- 💬 Ask me about React and Node
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakibur74/)
 
 - **Languages and Tools:**  
