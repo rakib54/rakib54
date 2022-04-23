@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Next JS
-- 🌱 I’m currently learning Shopify
+- 🌱 I'm currently learning problem-solving, DS, and Algorithm
 - 👯 I’m looking to collaborate on React.js
 - 💬 Ask me about React and Node
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakibur74/)
