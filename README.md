@@ -4,8 +4,8 @@
 
 
 
-- 🌱 I'm currently learning problem-solving, DS, and Algorithm
-- 👯 I’m looking to collaborate on React.js
+- 🌱 I'm currently learning Node Js
+- 👯 I’m looking to collaborate on React.js and Next Js
 - 📫 How to reach me **rakibur74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
